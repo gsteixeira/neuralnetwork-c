@@ -1,4 +1,4 @@
-# A Neural Network in Go
+# A Neural Network in C
 
 Simple feed forward neural network in C
 
